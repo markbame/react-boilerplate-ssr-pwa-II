@@ -1,0 +1,15 @@
+{
+  "short_name": "TEST PWA PROTOTYPE",
+  "name": "Progressive Web App",
+  "icons": [
+    {
+      "src":"icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#555",
+  "theme_color": "#555",
+  "display": "standalone"
+}
